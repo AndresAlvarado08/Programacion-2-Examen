@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Examen Progra 2.exe
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Examen Progra 2.deps.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Examen Progra 2.runtimeconfig.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Examen Progra 2.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Examen Progra 2.pdb
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Pokemon.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\bin\Debug\net8.0\Pokemon.pdb
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets\msbuild.Examen Progra 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Examen Progra 2.props
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Examen Progra 2.props
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Examen Progra 2.props
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\scopedcss\bundle\Examen Progra 2.styles.css
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen P.F66A2C52.Up2Date
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\refint\Examen Progra 2.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.pdb
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\Examen Progra 2.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Examen Progra 2\obj\Debug\net8.0\ref\Examen Progra 2.dll

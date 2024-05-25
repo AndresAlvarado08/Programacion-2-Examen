@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\bin\Debug\net8.0\Pokemon.deps.json
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\bin\Debug\net8.0\Pokemon.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\bin\Debug\net8.0\Pokemon.pdb
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\refint\Pokemon.dll
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\Pokemon.pdb
+C:\Users\User\Desktop\Cursos UNA\Programas\Ciclo II 2023\Examen Progra 2\Pokemon\obj\Debug\net8.0\ref\Pokemon.dll
